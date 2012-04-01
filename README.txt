@@ -1,7 +1,3 @@
-Build an ISO installer for ESXi with support for 3ware RAID controllers
-
-Currently supports 9650SE/9690SA/9750
-
-Derived from http://kb.lsi.com/KnowledgebaseArticle16655.aspx
-
-Check out the branch corresponding to the ESXi base release version and build!
+Copy VMware-ESXi-5.0.0-469512-depot.zip into this directory (requires an account on www.vmware.com)
+Start PowerCLI (free download from www.vmware.com)
+Run .\3w326.ps1
